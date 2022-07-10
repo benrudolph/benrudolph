@@ -6,5 +6,7 @@ If you've found yourself here, you might also write software. At Peregrine, we l
 
 As a team, we are service-oriented entrepreneurs who are motivated by solving hard, mission-critical challenges. We trust each other, help each other, and love diving into challenges together. We believe empathy, curiosity, integrity, and excellent execution are key to building impactful software.
 
-Oh, and check out some of the cool software we're building below.
+Oh, and check out some of the cool software we're building.
 
+![map](https://github.com/benrudolph/benrudolph/raw/main/export.gif)
+We support advanced mapping capabilities to enable anything from complex response planning to re-constructing a crime.

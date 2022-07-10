@@ -8,9 +8,9 @@ As a team, we are service-oriented entrepreneurs who are motivated by solving ha
 
 Oh, and [check out](releases.peregrine.io) some of the cool software we're building.
 
-## Engineering values
+### Engineering values
 
-### 🧼 Leave it better
+** 🧼 Leave it better **
 
 An engineer leaves the code and abstractions better than how she saw them. The codebase is a collective responsibility; its success depends on the thoughtful, consistent actions from everyone.
 

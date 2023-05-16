@@ -6,8 +6,6 @@ If you've found yourself here, you might also write software. At Peregrine, we l
 
 As a team, we are service-oriented entrepreneurs who are motivated by solving hard, mission-critical challenges. We trust each other, help each other, and love diving into challenges together. We believe empathy, curiosity, integrity, and excellent execution are key to building impactful software.
 
-Oh, and check out some of the [cool software](https://releases.peregrine.io) we're building.
-
 ### Engineering values
 Coding is a craft, and we hold ourselves to a high standard. These are a few of the values we hold that help us achieve that standard.
 
